@@ -4,6 +4,30 @@ p {
 
 a {
     font-size:  22px;
+    line-height: 1.7;
+}
+
+pre {
+    font-size:  22px;
+    background-color: #fff;
+}
+
+.title {
+    font-size:  22px;
+    color: #000;
+    font-weight: bold;
+    -webkit-text-stroke: 0.1px #fff;
+    /*text-decoration: underline;*/
+    line-height: 1.7;
+    /*color:palevioletred*/
+    /*background-color: aqua;*/
+}
+
+body {
+  background-image: url(blossoms.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
 }
 
 .picture {
@@ -27,6 +51,24 @@ a {
         line-height:1.7;
         word-break: break-all;
     }
+    
+    pre {
+        font-size:  16px;
+        line-height:1.7;
+        background-color: #fff;
+        word-break: break-all;
+    }
+
+.title {
+    font-size:  16px;
+    color: #000;
+    font-weight: bold;
+    -webkit-text-stroke: 0.1px #fff;
+    /*text-decoration: underline;*/
+    line-height: 1.7;
+    /*color:palevioletred*/
+    /*background-color: aqua;*/
+}
 
     .picture {
         max-width: 100%;
