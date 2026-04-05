@@ -4,6 +4,7 @@ p {
 
 a {
     font-size:  22px;
+    background-color: rgba(255,255,255,0.6);
     line-height: 1.7;
 }
 
@@ -48,6 +49,7 @@ body {
 
     a {
         font-size:  16px;
+        background-color: rgba(255,255,255,0.6);
         line-height:1.7;
         word-break: break-all;
     }
