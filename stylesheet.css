@@ -11,6 +11,7 @@ a {
 pre {
     font-size:  22px;
     background-color: #fff;
+    border-radius: 10px;
 }
 
 .title {
@@ -58,6 +59,7 @@ body {
         font-size:  16px;
         line-height:1.7;
         background-color: #fff;
+        border-radius: 10px;
         word-break: break-all;
     }
 
