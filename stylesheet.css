@@ -9,3 +9,17 @@ a {
 .picture {
     width:600px;
 }
+
+@media(max-width: 480px) {
+    p {
+        font-size: 16px;
+    }
+
+    a {
+        font-size:  16px;
+    }
+
+    .picture {
+        width:600px;
+    }
+}
