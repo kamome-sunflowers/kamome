@@ -12,9 +12,9 @@ a {
 
 pre {
     font-size:  22px;
-    background-color: #fff;
+    background-color: rgba(255,255,255,0.7);
     border-radius: 10px;
-    padding: 5px;
+    padding: 7px;
 }
 
 .title {
@@ -63,9 +63,9 @@ body {
     pre {
         font-size:  16px;
         line-height:1.7;
-        background-color: #fff;
+        background-color: rgba(255,255,255,0.7);
         border-radius: 10px;
-        padding: 5px;
+        padding: 7px;
         word-break: break-all;
     }
 
