@@ -30,6 +30,10 @@ pre {
     /*background-color: aqua;*/
 }
 
+.lb {
+    margin-bottom: 300px;
+}
+
 body {
   background-image: url(blossoms.png);
   background-size: cover;
