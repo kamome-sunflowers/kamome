@@ -10,15 +10,6 @@ a {
     line-height: 1.7;
 }
 
-pre {
-    font-size:  22px;
-    background-color: rgba(255,255,255,0.7);
-    border-radius: 10px;
-    padding: 7px;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-}
-
 .title {
     font-size:  22px;
     color: #000;
@@ -32,6 +23,23 @@ pre {
 
 .lb {
     margin-bottom: 600px;
+}
+
+.pre_clear {
+    font-size:  22px;
+    border-radius: 10px;
+    padding: 7px;
+    white-space: pre-wrap;
+    word-wrap: break-word;  
+}
+
+.pre_comment {
+    font-size:  22px;
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 10px;
+    padding: 7px;
+    white-space: pre-wrap;
+    word-wrap: break-word; 
 }
 
 body {
@@ -66,17 +74,6 @@ body {
         word-break: break-all;
     }
     
-    pre {
-        font-size:  16px;
-        line-height:1.7;
-        background-color: rgba(255,255,255,0.7);
-        border-radius: 10px;
-        padding: 7px;
-        word-break: break-all;
-        white-space: pre-wrap;
-        word-wrap: break-word;
-    }
-
     .title {
         font-size:  16px;
         color: #000;
@@ -90,6 +87,26 @@ body {
 
     .lb {
         margin-bottom: 900px;
+    }
+
+    .pre_clear {
+        font-size:  16px;
+        line-height:1.7;
+        padding: 7px;
+        word-break: break-all;
+        white-space: pre-wrap;
+        word-wrap: break-word; 
+    }
+
+    .pre_comment {
+        font-size:  16px;
+        line-height:1.7;
+        background-color: rgba(255,255,255,0.7);
+        border-radius: 10px;
+        padding: 7px;
+        word-break: break-all;
+        white-space: pre-wrap;
+        word-wrap: break-word;
     }
 
     .picture {
