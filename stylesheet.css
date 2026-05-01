@@ -53,7 +53,9 @@ body::before {
     height: 100%;
     z-index: -1;
     background: url('blossoms.png') no-repeat center center / cover;
+    will-change: transform;
 } 
+
 
 
 .picture {
