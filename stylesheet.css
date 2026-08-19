@@ -87,7 +87,7 @@ body::before {
         font-size:  16px;
         color: #000;
         font-weight: bold;
-        /*-webkit-text-stroke: 0.05px #fff;
+        -webkit-text-stroke: 0.05px #000;
         /*text-decoration: underline;*/
         line-height: 1.7;
         /*color:palevioletred*/
